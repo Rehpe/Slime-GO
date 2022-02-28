@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de68afaadaf831143b81d58ab47d22fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioPlayerTouch: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
+  - audioEatElement: {instanceID: 0}
+  - audioEatItem: {instanceID: 0}
+  - sfxVolumeSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
